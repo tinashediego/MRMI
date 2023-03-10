@@ -1,4 +1,4 @@
-﻿mineral,name,type,internationalCompanyName,officeCountry,year,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent,sourceName,sourceURL
-Chrome,Apple Bridge Investements,Local Company (GoZ),,Zimbabwe,2021,194546,kg,10417447.88,,,,0,Chamber of Mines,
-Chrome,Zimasco,,Sinosteel Corporation,China,2021,117480.71,kg,5210439.78,,,,0,Chamber of Mines,
-Chrome,Zimasco,,Sinosteel Corporation,China,2020,,,,,,344000,,Zimasco CSR report,https://zimasco.co.zw/category/csr/  
+﻿mineral,name,key,type,internationalCompanyName,officeCountry,year,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent,sourceName,sourceURL
+Chrome,Apple Bridge Investements,applebri,Local Company (GoZ),,Zimbabwe,2021,194546,kg,10417447.88,,,,0,Chamber of Mines,
+Chrome,Zimasco,zimasco,,Sinosteel Corporation,China,2021,117480.71,kg,5210439.78,,,,0,Chamber of Mines,
+Chrome,Zimasco,zimasco,,Sinosteel Corporation,China,2020,,,,,,344000,,Zimasco CSR report,https://zimasco.co.zw/category/csr/  
