@@ -1,16 +1,16 @@
-﻿mineral,name,type,internationalCompanyName,officeCountry,year,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent,sourceName,sourceURL
-Diamond,Anjin Investments,International Company,Anhui Foreign Economic Construction Group,China,2017,,,,,,,,,
-Diamond,Anjin Investments,International Company,Anhui Foreign Economic Construction Group,China,2018,,,,,,,,,
-Diamond,Anjin Investments,International Company,Anhui Foreign Economic Construction Group,China,2019,,,,,,,,,
-Diamond,Anjin Investments,International Company,Anhui Foreign Economic Construction Group,China,2020,790000,carats,,,,,,,
-Diamond,Anjin Investments,International Company,Anhui Foreign Economic Construction Group,China,2021,63510,carats,10317834.6,,,,0,Chamber of Mines,
-Diamond,RioZim,,RZM Murowa,,2017,732045,carats,79640000,1400000,3610000,,0,,
-Diamond,RioZim,,RZM Murowa,,2018,740244,carats,83860000,1500000,4440000,,0,,
-Diamond,RioZim,,RZM Murowa,,2019,685000,carats,,,,,,,
-Diamond,RioZim,,RZM Murowa,,2020,579000,carats,,,,,,,
-Diamond,RioZim,,RZM Murowa,,2021,413120.25,carats,59010811.84,,,,0,Chamber of Mines,
-Diamond,Zimbabwe Consolidated Diamond Mining Company,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2017,1776384,carats,272657,-15355141,6300335,,0,ZCDC 2017 Annual report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2017-Annual-Report.pdf
-Diamond,Zimbabwe Consolidated Diamond Mining Company,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2018,2766576,carats,12777759,-55355140,17871037,5000000,0.391304923,ZCDC 2018 Annual Report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2018-Annual-Report.pdf
-Diamond,Zimbabwe Consolidated Diamond Mining Company,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2019,1647223,carats,20888771.6,3029218.8,14480662.6,,0,ZCDC 2019 Annual Report,https://www.zcdco.com/wp-content/uploads/2021/07/ZCDC-2019-Annual-Report.pdf
-Diamond,Zimbabwe Consolidated Diamond Mining Company,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2020,1375455,carats,28357061.3,-77258.8,9356384.4,,0,ZCDC 2020 Annual Report,https://www.zcdco.com/wp-content/uploads/2022/03/ZCDC-2020-Annual-Report.pdf
-Diamond,Zimbabwe Consolidated Diamond Mining Company,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2021,3747670,carats,600612466.2,,,,0,Chamber of Mines,
+﻿mineral,name,key,type,internationalCompanyName,officeCountry,year,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent,sourceName,sourceURL
+Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2017,,,,,,,,,
+Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2018,,,,,,,,,
+Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2019,,,,,,,,,
+Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2020,790000,carats,,,,,,,
+Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2021,63510,carats,10317834.6,,,,0,Chamber of Mines,
+Diamond,RioZim,rio,,RZM Murowa,,2017,732045,carats,79640000,1400000,3610000,,0,,
+Diamond,RioZim,rio,,RZM Murowa,,2018,740244,carats,83860000,1500000,4440000,,0,,
+Diamond,RioZim,rio,,RZM Murowa,,2019,685000,carats,,,,,,,
+Diamond,RioZim,rio,,RZM Murowa,,2020,579000,carats,,,,,,,
+Diamond,RioZim,rio,,RZM Murowa,,2021,413120.25,carats,59010811.84,,,,0,Chamber of Mines,
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2017,1776384,carats,272657,-15355141,6300335,,0,ZCDC 2017 Annual report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2017-Annual-Report.pdf
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2018,2766576,carats,12777759,-55355140,17871037,5000000,0.391304923,ZCDC 2018 Annual Report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2018-Annual-Report.pdf
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2019,1647223,carats,20888771.6,3029218.8,14480662.6,,0,ZCDC 2019 Annual Report,https://www.zcdco.com/wp-content/uploads/2021/07/ZCDC-2019-Annual-Report.pdf
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2020,1375455,carats,28357061.3,-77258.8,9356384.4,,0,ZCDC 2020 Annual Report,https://www.zcdco.com/wp-content/uploads/2022/03/ZCDC-2020-Annual-Report.pdf
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2021,3747670,carats,600612466.2,,,,0,Chamber of Mines,
