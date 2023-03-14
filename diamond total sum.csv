@@ -1,4 +1,4 @@
 ﻿mineral,name,key,type,internationalCompanyName,officeCountry,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR
 diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,853510,carats,10317834.6,,,
 diamond,RioZim,rio,,RZM Murowa,,3149409.25,carats,222510811.8,2900000,8050000,
-diamond,Zimbabwe Consolidated Diamond Mining Company,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,11313308,carats,662908715.1,-67758321,48008419,5000000
+diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,11313308,carats,662908715.1,-67758321,48008419,5000000
