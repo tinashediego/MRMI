@@ -1,4 +1,4 @@
-﻿mineral,name,type,internationalCompanyName,officeCountry,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR
-platinum,Mimosa,International Company,Sibanye Still Water,South Africa,1002000,oz,1787966100,1818621529,154389860,3465516
-platinum,Unki mines (Pvt) Limited Management,International Company,Anglo-American,United Kingdom,3061.67,oz,1509348046,472760383,217800000,4200000
-platinum,Zimplats,International Company,Implats Pvt Ltd,South Africa,1980900,oz,842677000,708580000,125652000,6000000
+﻿mineral,name,key,type,internationalCompanyName,officeCountry,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR
+platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,1002000,oz,1787966100,1818621529,154389860,3465516
+platinum,Unki mines (Pvt) Limited Management,unki,International Company,Anglo-American,United Kingdom,3061.67,oz,1509348046,472760383,217800000,4200000
+platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,1980900,oz,842677000,708580000,125652000,6000000
