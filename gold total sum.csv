@@ -1,4 +1,4 @@
-﻿mineral,name,keytype,internationalCompanyName,officeCountry,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR
+﻿mineral,name,key,type,internationalCompanyName,officeCountry,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR
 Gold,Caledonia Mining Corporation,cale,International Company,,United Kingdom,8254.21,kg,434987000,102170000,30897155,2800000
 Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,289.41,kg,11080159,166292041,57450,
 Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,5906.48,kg,,,,
